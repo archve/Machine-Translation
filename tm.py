@@ -1,10 +1,6 @@
 """ CSF469 Information Retrieval Assignment 3 -
     IBM Alignment Models and phrase-based translation
 
-    Team Details:
-        Archana. V. E  (2017H1030078H)
-        Kritika Sharma(2017H1030071H)
-        Swati Kumari (2017H1030079 H)
     Dataset used : provided aligned corpora in folder -> Dataset
                    created corpus - mycorpus.json
 
